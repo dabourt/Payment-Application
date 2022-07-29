@@ -1,0 +1,8 @@
+﻿  app.c
+  card.c
+D:\Eduction\C & Data Structure\udacity\Payment_Project_in_discussion\00-source_project\Payment_Application\Payment_Application\Card\card.c(14,2): warning C4013: 'gets' undefined; assuming extern returning int
+  server.c
+  terminal.c
+  Generating Code...
+D:\Eduction\C & Data Structure\udacity\Payment_Project_in_discussion\00-source_project\Payment_Application\Payment_Application\Server\server.c(253): warning C4716: 'Update_accounts': must return a value
+  Payment_Application.vcxproj -> D:\Eduction\C & Data Structure\udacity\Payment_Project_in_discussion\00-source_project\Payment_Application\x64\Debug\Payment_Application.exe
